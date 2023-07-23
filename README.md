@@ -18,3 +18,5 @@ I created a container for the images to be resized automatically so the images f
 The key takeaways for me during this project was using online resources to learn new techniques and to gain insights into best practices for responsive web design, optimizing images, and creating a seamless user experience across different devices.
 
 ## Other Projects:
+<a href="https://github.com/j-t-thomas/Word-Nerd"><img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WordNerd.gif?raw=true" width="400"></a>
+<a href="https://github.com/j-t-thomas/Music-Player"><img src="https://github.com/j-t-thomas/j-t-thomas/blob/main/WavesMP4.gif?raw=true" width="337"></a>
