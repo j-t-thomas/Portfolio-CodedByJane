@@ -16,3 +16,5 @@ I created a container for the images to be resized automatically so the images f
 ## Lessons Learned:
 
 The key takeaways for me during this project was using online resources to learn new techniques and to gain insights into best practices for responsive web design, optimizing images, and creating a seamless user experience across different devices.
+
+## Other Projects:
