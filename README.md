@@ -1,4 +1,4 @@
-#Portfolio:
+## Portfolio:
 HTML5, CSS3, Javascript - Portfolio Site including links to my projects and ways to get in contact with me.
 
 ![alt tag](codedbyjane.gif)
